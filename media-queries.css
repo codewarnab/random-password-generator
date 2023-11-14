@@ -1,0 +1,33 @@
+@media screen and (max-width:425px){
+    .container{
+        overflow: hidden;
+        padding: 20px;
+    }
+    .container h1 {
+        font-size: 26px;
+    }
+    
+    .display {
+        width: 70%;
+        height: 40px;
+    }
+    .display input {
+        width: 100%;
+        font-size: 15px;
+    }
+    .container button{
+        width: 220px;
+        height: 30px;
+        font-size: 14px;
+        padding: 0;
+        font-weight: 500;
+    }
+    .container button img {
+    width: 12px;
+    margin-right: 10px;
+
+}
+    .display img {
+        width: 20px;
+    }
+} 
