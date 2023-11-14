@@ -2,13 +2,15 @@
     .container{
         overflow: hidden;
         padding: 20px;
+        margin: 20px;
+        
     }
     .container h1 {
         font-size: 26px;
     }
     
     .display {
-        width: 70%;
+        width: 90%;
         height: 40px;
     }
     .display input {
@@ -16,9 +18,9 @@
         font-size: 15px;
     }
     .container button{
-        width: 220px;
+        width: 90%;
         height: 30px;
-        font-size: 14px;
+        font-size: 18px;
         padding: 0;
         font-weight: 500;
     }
