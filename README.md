@@ -41,5 +41,5 @@ Contributions are welcome! If you find any bugs or have suggestions for improvem
 
 ## Credits
 
-This project was created by [Arnab Mondal].
+This project was created by [Arnab Mondal](https://github.com/codewarnab).
 
